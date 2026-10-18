@@ -15,6 +15,14 @@ The work focused on identifying security misconfigurations, reviewing administra
 - SharePoint Online
 - Microsoft 365 Security Administration
 
+## Documented Security Case Studies
+
+### Identity & Authentication Security
+
+- [Microsoft Entra ID — Authentication Methods Security](Entra-ID-Authentication-Methods.md)
+
+This case study covers SMS and voice-call authentication risks, Microsoft Entra ID policy configuration, and recommended verification procedures.
+
 ## Security Tasks Performed
 
 ### 1. Security Baseline Assessments
